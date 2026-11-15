@@ -83,7 +83,7 @@ Verify all files against the SHA-256 values below.
 
 ---
 
-## Guides
+## Guides.
 
 <div align="center">
 
