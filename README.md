@@ -31,7 +31,7 @@ Verify all files against the SHA-256 values below.
 
 | File | SHA-256 |
 | --- | --- |
-| `electrum-stratis-v2.7.19.exe` | `7376f7f20158df9264d070216c47001058b99001ee0d2a9244eb2551d4f86c4f` |
+| `electrum-stratis-v2.7.19.exe` | `6a53bf963b650ad83ed3888ca052864ea90e047ce041cf97b68720dbcfdff9c4` |
 | `electrum-stratis-v2.7.19.dmg` | `968baf90e534918a1ed87258c47dea07fbc71271006670c38fffcfb6c6504758` |
 | `electrum-stratis-v2.7.19.zip` | `01d691b27355835b774a10727b3d6089a05524e836e67dffb4eb05487a436360` |
 
